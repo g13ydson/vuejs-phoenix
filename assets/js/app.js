@@ -11,6 +11,7 @@ import css from "../css/app.css"
 //
 import "phoenix_html"
 import Vue from 'vue'
+import './plugins/vuetify'
 
 new Vue({
   el: "#vue-app"
