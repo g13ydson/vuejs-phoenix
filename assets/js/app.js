@@ -10,6 +10,11 @@ import css from "../css/app.css"
 // Import dependencies
 //
 import "phoenix_html"
+import Vue from 'vue'
+
+new Vue({
+  el: "#vue-app"
+})
 
 // Import local files
 //
