@@ -12,11 +12,13 @@ import css from "../css/app.css"
 import "phoenix_html"
 import Vue from 'vue'
 import router from './router'
+import App from './app.vue'
 import './plugins/vuetify'
 
 new Vue({
   router,
-  el: "#vue-app"
+  el: "#vue-app",
+  render: h => h(App)
 })
 
 // Import local files
