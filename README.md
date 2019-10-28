@@ -1,3 +1,6 @@
+## Vue.js - Phoenix 1.4 Example
+
+The purpose of this project is to demonstrate how to incorporate [Vue.js](http://vuejs.org) into a Elixir Phoenix application.  
 # VuePhoenix
 
 To start your Phoenix server:
